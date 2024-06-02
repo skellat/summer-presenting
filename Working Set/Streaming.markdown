@@ -1,25 +1,15 @@
-# Streaming and You
+# Streaming Television and You
 
 + Introduction
   + Who is your presenter?
   + What are we talking about?
-+ What is Open Source Software?
-  + Free as in Freedom, not Beer
-  + Things made by a community
-  + Generally available at no cost to you
-  + You can sometimes purchase support contracts
-+ Prominent things available
-  + Linux distributions
-    + Ubuntu/Xubuntu
-    + openSUSE
-    + Debian
-    + Alpine Linux
-  + Software
-    + LibreOffice
-    + VLC
-    + Krita
-    + Blender
-    + GIMP
++ What is Streaming?
++ What Do You Need To Utilize It?
+  + Connection to the Internet
+  + Television
+  + Set-top device
 + How to Get Started With This
++ Look at various services currently available
++ Current issues in streaming
 + Other Matters Arising
 + Conclusion
